@@ -7,7 +7,7 @@ Node/Express/MongoDB/ReactJS app called nytreact
  2) Save articles into Mongo using Mongoose model/schema, 
  3) Display search results and recently searched articles with React and React router.
  
-===================================================================================== 
+=======================================================================
 
 Initializes at server.js
 
